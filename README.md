@@ -4,16 +4,16 @@
 # Figure 2  Distribution de données génétiques
 ![lien vers l'image](Figure_2.png)
 
-# Figure 3  Coefficient de correlation selon l'eGFR et les locus HLA
+# Figure 3  Coefficient de corrélation selon l'eGFR et les locus HLA
 ![lien vers l'image](Figure_3.png)
 
-# Figure 4  Coefficient de correlation selon l'eGFR et les locus HLA avec affichage des coefficients de correlations
+# Figure 4  Coefficient de corrélation selon l'eGFR et les locus HLA avec affichage des coefficients de correlations
 ![lien vers l'image](Figure_4.png)
 
-# Figure 5  Coefficient de correlation selon l'eGFR et les locus HLA avec affichage des p-values
+# Figure 5  Coefficient de corrélation selon l'eGFR et les locus HLA avec affichage des p-values
 ![lien vers l'image](Figure_5.png)
 
-# Figure 6  Coefficient de determination en fonction du nombre de call et du score AMS
+# Figure 6  Coefficient de determination en fonction du nombre de call, du score AMS et du ratio de zygotie
 ![lien vers l'image](Figure_6.png)
 
 # Figure 7  Distribution de la densité du score AMS avec les moyennes
@@ -22,10 +22,10 @@
 # Figure 8  Test de puissance pour estimer le nombre d'echantillon necessaire pour obtenir un coefficient de correlation et une p-value significative
 ![lien vers l'image](Figure_8.png)
 
-# Figure 9  Coefficient de determination en fonction de l'A2MS et l'eGFR
+# Figure 9  Coefficient de détermination en fonction de l'A2MS et l'eGFR
 ![lien vers l'image](Figure_9.png)
 
-# Figure 10  Coefficient de correlation entre les calls heterozygotes codants et le score AMS pour les profondeurs de séquencages 10, 20 et 30 reads.
+# Figure 10  Coefficient de corrélation entre les calls heterozygotes codants et le score AMS pour les profondeurs de séquencages 10, 20 et 30 reads.
 ![lien vers l'image](Figure_10.png)
 
 # Figure 11  Couverture des reads issus du séquençage de l'exome d'un patient
