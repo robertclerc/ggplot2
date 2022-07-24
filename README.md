@@ -36,7 +36,7 @@
 ### <em>Coefficient de determination selon 1 variable continue et 2 variable discrete</em>
 ![lien vers l'image](Figure_09.png)
 
-## Figure 10 
+## Figure 10 Couverture des lectures issues du séquençage de l'exome d'un patient
 ### <em>Coverage of reads from a patient's exome sequencing</em>
 ![lien vers l'image](Figure_10.jpg)
 
